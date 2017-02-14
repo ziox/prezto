@@ -39,6 +39,13 @@ zstyle ':prezto:load' pmodule \
 
 
 #
+# Autosuggestions
+#
+
+# Set the query found color.
+# zstyle ':prezto:module:autosuggestions:color' found ''
+
+#
 # Editor
 #
 
@@ -125,6 +132,7 @@ zstyle ':prezto:module:prompt' theme 'ziox2'
 #   'main' \
 #   'brackets' \
 #   'pattern' \
+#   'line' \
 #   'cursor' \
 #   'root'
 #
